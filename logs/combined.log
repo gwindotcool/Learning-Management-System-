@@ -1,0 +1,92 @@
+[2026-05-06 12:10:41] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:10:41] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:10:41] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:10:41] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:10:41] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:10:41] [32minfo[39m: Environment: development
+[2026-05-06 12:11:33] [31merror[39m: 500 GET /api/v1/health — Cast to ObjectId failed for value "health" (type string) at path "_id" for model "Course"
+[2026-05-06 12:11:49] [31merror[39m: 500 GET /api/v1/health — Cast to ObjectId failed for value "health" (type string) at path "_id" for model "Course"
+[2026-05-06 12:12:27] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:12:27] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:12:27] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:12:27] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:12:27] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:12:27] [32minfo[39m: Environment: development
+[2026-05-06 12:12:38] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:12:38] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:12:38] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:12:38] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:12:38] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:12:38] [32minfo[39m: Environment: development
+[2026-05-06 12:12:44] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:12:44] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:12:44] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:12:44] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:12:44] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:12:44] [32minfo[39m: Environment: development
+[2026-05-06 12:12:59] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:12:59] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:12:59] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:12:59] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:12:59] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:12:59] [32minfo[39m: Environment: development
+[2026-05-06 12:13:25] [31merror[39m: 422 POST /api/v1/auth/register — Name is required. Valid email is required. Password must be at least 8 characters. Password must contain uppercase, lowercase, and a number
+[2026-05-06 12:13:33] [31merror[39m: 500 GET /api/v1/courses — Cast to ObjectId failed for value "courses" (type string) at path "_id" for model "Course"
+[2026-05-06 12:13:54] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:13:54] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:13:54] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:13:54] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:13:54] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:13:54] [32minfo[39m: Environment: development
+[2026-05-06 12:13:58] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:13:58] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:13:58] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:13:58] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:13:58] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:13:58] [32minfo[39m: Environment: development
+[2026-05-06 12:14:03] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:14:03] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:14:03] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:14:03] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:14:03] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:14:03] [32minfo[39m: Environment: development
+[2026-05-06 12:14:06] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:14:06] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:14:06] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:14:06] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:14:06] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:14:06] [32minfo[39m: Environment: development
+[2026-05-06 12:53:55] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 12:53:56] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 12:53:56] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 12:53:56] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 12:53:56] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 12:53:56] [32minfo[39m: Environment: development
+[2026-05-06 15:46:11] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 15:46:12] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 15:46:12] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 15:46:12] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 15:46:12] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 15:46:12] [32minfo[39m: Environment: development
+[2026-05-06 15:52:16] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-06 15:52:16] [32minfo[39m: ✅ MongoDB connected
+[2026-05-06 15:52:16] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-06 15:52:16] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-06 15:52:16] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-06 15:52:16] [32minfo[39m: Environment: development
+[2026-05-08 14:57:41] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-08 14:57:41] [32minfo[39m: ✅ MongoDB connected
+[2026-05-08 14:57:41] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-08 14:57:41] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-08 14:57:41] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-08 14:57:41] [32minfo[39m: Environment: development
+[2026-05-13 09:02:20] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-13 09:02:31] [33mwarn[39m: ⚠️  MongoDB disconnected
+[2026-05-19 16:27:14] [33mwarn[39m: Swagger docs not loaded (docs/swagger.yaml missing — optional)
+[2026-05-19 16:27:17] [32minfo[39m: ✅ MongoDB connected successfully
+[2026-05-19 16:27:17] [32minfo[39m: 📊 Database: lms_db
+[2026-05-19 16:27:17] [32minfo[39m: 🔗 Host: ac-gp9xpfn-shard-00-00.d1zup5j.mongodb.net
+[2026-05-19 16:27:17] [32minfo[39m: 🚀 LMS API running → http://localhost:5000
+[2026-05-19 16:27:17] [32minfo[39m: 📚 API Docs      → http://localhost:5000/api/docs
+[2026-05-19 16:27:17] [32minfo[39m: ❤️  Health check  → http://localhost:5000/api/v1/health
+[2026-05-19 16:27:17] [32minfo[39m: Environment: development

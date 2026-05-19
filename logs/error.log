@@ -1,0 +1,5 @@
+[2026-05-06 12:11:33] [31merror[39m: 500 GET /api/v1/health — Cast to ObjectId failed for value "health" (type string) at path "_id" for model "Course"
+[2026-05-06 12:11:49] [31merror[39m: 500 GET /api/v1/health — Cast to ObjectId failed for value "health" (type string) at path "_id" for model "Course"
+[2026-05-06 12:13:25] [31merror[39m: 422 POST /api/v1/auth/register — Name is required. Valid email is required. Password must be at least 8 characters. Password must contain uppercase, lowercase, and a number
+[2026-05-06 12:13:33] [31merror[39m: 500 GET /api/v1/courses — Cast to ObjectId failed for value "courses" (type string) at path "_id" for model "Course"
+[2026-05-13 09:02:31] [31merror[39m: ❌ MongoDB connection failed:
