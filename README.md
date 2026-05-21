@@ -8,12 +8,6 @@
 8. Kolawole Samuel BABATUNDE  "https://github.com/CompetitiveBit8"
 9. Abdulkadir Abdulgafar Shina   "https://github.com/Gafty999"
 10. Agbochenu Rapheal     "https://github.com/agbochenurapheal-hue"
-       
-
-
-
-
-
 
 
 # 🎓 TS Academy LMS v2.0 — Complete Documentation
