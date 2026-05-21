@@ -9,6 +9,7 @@
 9. Abdulkadir Abdulgafar Shina   "https://github.com/Gafty999"
 10. Agbochenu Rapheal     "https://github.com/agbochenurapheal-hue"
 
+
 # 🎓 TS Academy LMS v2.0 — Complete Documentation
 
 > A world-class Learning Management System REST API built with Node.js, Express, and MongoDB with exceptional gamification, AI personalization, community forums, and advanced analytics.
