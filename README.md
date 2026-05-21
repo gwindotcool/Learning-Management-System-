@@ -1,3 +1,21 @@
+1. Ejimofor Elisha - "https://github.com/Murphine22/LMS-Capstone-Project.git"
+2.  Ukpabi Godwin Michael "https://github.com/gwindotcool/Learning-Management-System-.git "
+3. Ifunanya Eneteh "https://github.com/nnejiifunanya5-Dev/LMS-Capstone-Project.git"
+4. Tosin Odujoko. "https://github.com/Tosinodus/My-LMS-Capstone-Project.git"
+5. Etimbuk Victory Udofia "https://github.com/EtimbukUdofia/Learning-Management-System"
+6. OYINEMI DICKSON FREDRICK.         "https://GitHub.com/emigfred"
+7. Aroh Leah Uchechi "https://github.com/LiaUc/Group1_LMS_Project_Phoenix_Cohort"
+8. Kolawole Samuel BABATUNDE  "https://github.com/CompetitiveBit8"
+9. Abdulkadir Abdulgafar Shina   "https://github.com/Gafty999"
+10. Agbochenu Rapheal     "https://github.com/agbochenurapheal-hue"
+       
+
+
+
+
+
+
+
 # 🎓 TS Academy LMS v2.0 — Complete Documentation
 
 > A world-class Learning Management System REST API built with Node.js, Express, and MongoDB with exceptional gamification, AI personalization, community forums, and advanced analytics.
